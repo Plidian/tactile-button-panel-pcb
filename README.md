@@ -46,16 +46,24 @@ Four M3 mounting holes placed symmetrically
 
 3-button board (GND3)
 Hole	X (mil)	Y (mil)
-H1	128.7	128.7
-H2	128.7	671.3
-H3	2821.3	671.3
-H4	2821.3	128.7
+H1	137.8	137.8
+H2	137.8	649.6
+H3	2755.9	649.6
+H4	2755.9	137.8
 2-button board (GND2)
 Hole	X (mil)	Y (mil)
-H1	128.7	928.7
-H2	128.7	1471.3
-H3	2821.3	1472.3
-H4	2821.3	928.7
+H1	137.8	937.8
+H2	137.8	1449.6
+H3	2755.9	1449.6
+H4	2755.9	937.8
 1-button boards (GND1A / GND1B)
+1A-H1	3137.8	937.8
+1A-H2	3137.8	1449.6
+1A-H3	4162.2	1449.6
+1A-H4	4162.2	937.8
+1B-H1	3137.8	137.8
+1B-H2	3137.8	662.2
+1B-H3	4162.2	662.2
+1B-H4	4162.2	137.8
 
 Coordinates included in the EasyEDA source & Gerbers.
